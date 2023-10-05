@@ -5,4 +5,4 @@ Add
   display: none;
   }
 ```
-to the style tag, this removes the watermark in some clients.
+to the style tag, this removes the ```Powered by Supabase```-watermark in some clients.
